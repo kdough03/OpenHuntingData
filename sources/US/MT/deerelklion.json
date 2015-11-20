@@ -3,10 +3,10 @@
 	"state": "Montana",
 	"attribution": "Montana Fish, Wildlife, & Parks",
     "properties": {
-        "id": "",
-        "name": ""
+        "id": "DISTRICT",
+        "name": "NAME"
     },
 	"species": ["deer", "elk", "mountain lion"],
 	"filetype": "shp",
-	"url": "http://fwp.mt.gov/gisData/shapefiles/huntDistrictsBighornSheep2014.zip"
+	"url": "http://fwp.mt.gov/gisData/shapefiles/huntDistrictsDeerElkLion2014.zip"
 }

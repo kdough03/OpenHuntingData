@@ -1,6 +1,7 @@
 {
    "url": "ftp://ftp.agrc.utah.gov/UtahSGID_Vector/UTM12_NAD83/BIOSCIENCE/PackagedData/_Statewide/HabitatAreas/HabitatAreas_shp.zip",
-   "species": [
+   "filenameInZip" : "
+      "species": [
       "ALL "
    ],
    "attribution": "Utah Automated Reference Center",
